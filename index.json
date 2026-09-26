@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "id": "radio",
+      "name": "Radio",
+      "version": "1.0",
+      "file": "apps/radio.lua",
+      "description": "Spielt 99drei Radio Mittweida ueber den Relay-Server ab. Braucht einen Speaker."
+    }
+  ]
+}
