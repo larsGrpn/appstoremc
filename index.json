@@ -13,6 +13,13 @@
       "version": "1.0",
       "file": "apps/snake.lua",
       "description": "Klassisches Snake mit Tasten- und Touch-Steuerung, Pause und Highscore."
+    },
+    {
+      "id": "tetris",
+      "name": "Tetris",
+      "version": "1.0",
+      "file": "apps/tetris.lua",
+      "description": "Klassisches Tetris mit Tasten- und Touch-Steuerung, Level, Vorschau und Highscore."
     }
   ]
 }
