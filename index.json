@@ -6,6 +6,13 @@
       "version": "1.0",
       "file": "apps/radio.lua",
       "description": "Spielt 99drei Radio Mittweida ueber den Relay-Server ab. Braucht einen Speaker."
+    },
+    {
+      "id": "turtles",
+      "name": "Turtles",
+      "version": "1.0",
+      "file": "apps/turtles.lua",
+      "description": "Zeigt den Status deiner Turtles mit TurtleOS und kann Auftraege abbrechen. Braucht ein Ender Modem."
     }
   ]
 }
