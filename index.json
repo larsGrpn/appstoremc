@@ -33,6 +33,13 @@
       "version": "1.0",
       "file": "apps/slots.lua",
       "description": "Einarmiger Bandit mit 3 Walzen, virtuellen Credits und Soundeffekten. Braucht einen Advanced Pocket Computer."
+    },
+    {
+      "id": "blackjack",
+      "name": "Blackjack",
+      "version": "1.0",
+      "file": "apps/blackjack.lua",
+      "description": "Blackjack gegen den Dealer mit virtuellen Credits, Doppeln und Soundeffekten. Braucht einen Advanced Pocket Computer."
     }
   ]
 }
