@@ -13,6 +13,19 @@
       "version": "1.0",
       "file": "apps/turtles.lua",
       "description": "Zeigt den Status deiner Turtles mit TurtleOS und kann Auftraege abbrechen. Braucht ein Ender Modem."
+    },{
+      "id": "snake",
+      "name": "Snake",
+      "version": "1.0",
+      "file": "apps/snake.lua",
+      "description": "Klassisches Snake mit Tasten- und Touch-Steuerung, Pause und Highscore."
+    },
+    {
+      "id": "tetris",
+      "name": "Tetris",
+      "version": "1.0",
+      "file": "apps/tetris.lua",
+      "description": "Klassisches Tetris mit Tasten- und Touch-Steuerung, Level, Vorschau und Highscore."
     }
   ]
 }
