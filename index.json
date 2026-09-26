@@ -40,6 +40,13 @@
       "version": "1.0",
       "file": "apps/blackjack.lua",
       "description": "Blackjack gegen den Dealer mit virtuellen Credits, Doppeln und Soundeffekten. Braucht einen Advanced Pocket Computer."
+    },
+    {
+      "id": "roulette",
+      "name": "Roulette",
+      "version": "1.0",
+      "file": "apps/roulette.lua",
+      "description": "Europaeisches Roulette mit Tableau zum Antippen, virtuellen Credits und Soundeffekten. Braucht einen Advanced Pocket Computer."
     }
   ]
 }
