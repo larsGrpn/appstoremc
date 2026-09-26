@@ -26,6 +26,13 @@
       "version": "1.0",
       "file": "apps/tetris.lua",
       "description": "Klassisches Tetris mit Tasten- und Touch-Steuerung, Level, Vorschau und Highscore."
+    },
+    {
+      "id": "slots",
+      "name": "Bandit",
+      "version": "1.0",
+      "file": "apps/slots.lua",
+      "description": "Einarmiger Bandit mit 3 Walzen, virtuellen Credits und Soundeffekten. Braucht einen Advanced Pocket Computer."
     }
   ]
 }
