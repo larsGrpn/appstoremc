@@ -47,6 +47,14 @@
       "version": "1.0",
       "file": "apps/roulette.lua",
       "description": "Europaeisches Roulette mit Tableau zum Antippen, virtuellen Credits und Soundeffekten. Braucht einen Advanced Pocket Computer."
+    },
+    {
+      "id": "katapult",
+      "name": "Katapult",
+      "version": "1.0",
+      "file": "apps/katapult.lua",
+      "description": "Schleuder-Physikspiel: Schiess Tuerme aus Holz, Glas und Stein um und erwische alle Wabbel. 6 Level. Braucht einen Advanced Pocket Computer."
     }
+
   ]
 }
